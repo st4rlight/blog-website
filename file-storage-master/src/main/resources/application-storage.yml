@@ -1,0 +1,4 @@
+# 文件上传配置
+file-storage:
+#  path: E:\\files
+  path: /mydata/file-storage/

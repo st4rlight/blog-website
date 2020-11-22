@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+@import '../src/assets/iconfont/iconfont.css';
+
+.App {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    .my-app-layout{
+      height: auto;
+      min-height: 100%;
+      .my-header-container{
+        background-color: #fff;
+        padding: 0;
+        height: 56px;
+      }
+      .my-content-container{
+        padding: 40px 0;
+      }
+    }
+
+    .my-footer-container{
+      background-color: #fff;
+      height: 48px;
+    }
+}
