@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/blog-service/blog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/blog-website.iml" filepath="$PROJECT_DIR$/.idea/blog-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-storage-service/file-storage-service.iml" filepath="$PROJECT_DIR$/file-storage-service/file-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-gateway-service/netty-gateway-service.iml" filepath="$PROJECT_DIR$/netty-gateway-service/netty-gateway-service.iml" />
+    </modules>
+  </component>
+</project>
